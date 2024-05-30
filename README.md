@@ -1,4 +1,4 @@
-![MasterHead](https://media.dev.to/cdn-cgi/image/width=1600,height=900,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb5j9dpzrp5lbbyc5kw2q.png)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*FA4XLQhKWhDFPu752UAIcg.jpeg)
 <h1 align="center">Hi 👋, I'm Ramal</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
