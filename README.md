@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramal</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
-- 🔭 I’m currently working on **Food Zero**
+- 🔭 I’m currently working at **Andersen**
 
 - 🌱 I’m currently learning **NextJS/TypeScript**
 
